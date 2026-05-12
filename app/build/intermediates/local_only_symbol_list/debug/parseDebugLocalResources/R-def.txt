@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+color purple_500
+color purple_700
+color teal_200
+id btnFragment1
+id btnFragment2
+id btnHello
+id fragment_container
+id seekBar
+id textOne
+id tvValue
+layout activity_main
+layout fragment_one
+layout fragment_two
+string app_name
+style Theme.FragmentTest
